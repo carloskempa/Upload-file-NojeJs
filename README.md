@@ -11,7 +11,9 @@ O Aplicativo armazena as transações financeiras de entrada e saída, cadastro 
 além de permitir a criação de novos registros no banco de dados a partir do envio de um arquivo csv.
 
 ### Banco de Dados
+O aplicativo utiliza o bando de dados Postgres
 
+![image](https://user-images.githubusercontent.com/38058432/86285417-9533e380-bbb2-11ea-8244-22e9fd9166b9.png)
 
 ### Rotas da aplicação
 
